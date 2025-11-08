@@ -1,7 +1,7 @@
 # Hi, I'm Kairos.
 **My skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*
 
-**My links:**
+# My links:
 
 [YouTube](https://www.youtube.com/@fijw)
 

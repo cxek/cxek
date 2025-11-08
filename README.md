@@ -3,7 +3,7 @@
 
 **I am currently:** *16 years old.*
 
-**I graduate high school in:** *2028!*
+**I graduate high school in:** *2028.*
 
 # My links:
 

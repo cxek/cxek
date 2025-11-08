@@ -1,9 +1,9 @@
 # Hi, I'm Kairos.
-**My skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*
+* **My skills are:** *Fluency in Luau, with working knowledge of Python, C#, and C++.*
 
-**I am currently:** *16 years old.*
+* **I am currently:** *16 years old.*
 
-**I graduate high school in:** *2028.*
+* **I graduate high school in:** *2028.*
 
 # My links:
 
